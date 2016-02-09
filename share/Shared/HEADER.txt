@@ -1,5 +1,5 @@
 <head>
-	<title>PirateBox - Share Freely!</title>
+	<title>Origin Code Academy MeetUp</title>
 	<script src="/jquery.min.js"></script>
 	<script src="/scripts.js"></script>
 	<meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no, width=device-width">
@@ -9,7 +9,7 @@
 		<div id="logo">
 			<h1>
 				<a href="/">
-					<img src="/piratebox-logo-horizontal-white.png" alt="PirateBox" title="PirateBox - Share Freely">
+					<img src="logo_big.png" alt="Origin Code Academy" title="Origin Code Academy MeetUp">
 				</a>
 			</h1>
 		</div>

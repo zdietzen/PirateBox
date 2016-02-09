@@ -273,16 +273,21 @@ input[type=radio] {
 
 .list table {
   width: 100%;
+  background: #e7e9ea;
+  text-align: center;
+}
 }
 .list table thead {
   text-align: left;
+  background: #e7e9ea;
 }
 .list table tbody tr {
   height: 2em;
   vertical-align: middle;
+  background: #e7e9ea;
 }
 .list table tbody tr:hover {
-  background: #e7e9ea;
+  background: #87cefa;
 }
 .list table .m, .list table .s, .list table .t {
   display: none;

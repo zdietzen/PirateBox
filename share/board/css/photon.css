@@ -155,9 +155,11 @@ hr {
 }
 table {
 	border-style: none;
+    background: white;
 }
 table td {
 	border-style: none;
+    background: white;
 }
 .nothumb {
 	background-color: #FFFFFF;
